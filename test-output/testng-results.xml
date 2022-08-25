@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-25T16:38:51 ICT" name="Default suite" finished-at="2022-08-25T16:39:07 ICT" duration-ms="16016">
+    <groups>
+    </groups>
+    <test started-at="2022-08-25T16:38:51 ICT" name="Default test" finished-at="2022-08-25T16:39:07 ICT" duration-ms="16016">
+      <class name="com.juaracoding.restassured.TestGetDuaSatu">
+        <test-method signature="testStatusCode()[pri:1, instance:com.juaracoding.restassured.TestGetDuaSatu@19d481b]" started-at="2022-08-25T16:38:51 ICT" name="testStatusCode" finished-at="2022-08-25T16:38:58 ICT" duration-ms="6613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStatusCode -->
+        <test-method signature="tesIDOne()[pri:2, instance:com.juaracoding.restassured.TestGetDuaSatu@19d481b]" started-at="2022-08-25T16:38:58 ICT" name="tesIDOne" finished-at="2022-08-25T16:39:01 ICT" duration-ms="2870" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tesIDOne -->
+        <test-method signature="testIDTwo()[pri:3, instance:com.juaracoding.restassured.TestGetDuaSatu@19d481b]" started-at="2022-08-25T16:39:01 ICT" name="testIDTwo" finished-at="2022-08-25T16:39:02 ICT" duration-ms="1599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIDTwo -->
+        <test-method signature="testIDThree()[pri:4, instance:com.juaracoding.restassured.TestGetDuaSatu@19d481b]" started-at="2022-08-25T16:39:02 ICT" name="testIDThree" finished-at="2022-08-25T16:39:04 ICT" duration-ms="1624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIDThree -->
+        <test-method signature="testIDFour()[pri:5, instance:com.juaracoding.restassured.TestGetDuaSatu@19d481b]" started-at="2022-08-25T16:39:04 ICT" name="testIDFour" finished-at="2022-08-25T16:39:05 ICT" duration-ms="1594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIDFour -->
+        <test-method signature="testIDFive()[pri:6, instance:com.juaracoding.restassured.TestGetDuaSatu@19d481b]" started-at="2022-08-25T16:39:05 ICT" name="testIDFive" finished-at="2022-08-25T16:39:07 ICT" duration-ms="1575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIDFive -->
+      </class> <!-- com.juaracoding.restassured.TestGetDuaSatu -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
